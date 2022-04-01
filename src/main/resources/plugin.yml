@@ -1,0 +1,4 @@
+name: UC-Passbook
+version: 1.0
+author: kybu
+main: dev.kybu.passbook.Passbook
